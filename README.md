@@ -1,6 +1,6 @@
 # Portfolio
 
-_The official portfolio website of Gaston Chenet, a UI/UX/Software developer._
+_The official portfolio website of Louis._
 
 ## Description
 
